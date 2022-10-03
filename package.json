@@ -1,0 +1,15 @@
+{
+  "name": "countries-states-cities-database",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/CleveryLMS/countries-states-cities-database.git",
+  "author": "Ivan't <ivan.martinez@imaginagroup.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.8.0",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
